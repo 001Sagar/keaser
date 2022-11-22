@@ -1,0 +1,7 @@
+Motive
+1. create EXpress server 
+2. connect with MongoDB DataBase
+4. User update APi.
+ products crud APi
+5. Add to cart APi6. recap
+
